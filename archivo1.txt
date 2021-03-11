@@ -1,2 +1,4 @@
 añadiendo unas lineas 
 para verlo en github
+Estas lineas
+las estoy agregando desde github
